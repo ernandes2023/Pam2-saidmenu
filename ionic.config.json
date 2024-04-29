@@ -1,0 +1,7 @@
+{
+  "name": "kabaco",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
